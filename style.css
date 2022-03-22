@@ -7,7 +7,7 @@
   }
   
   header {
-    background-color: rgb(37, 54, 110);
+    background-color: rgba(1, 2, 3, 0.438);
     padding: 30px;
     text-align: center;
     color: white;
@@ -25,7 +25,7 @@
     float: left;
     width: 30%;
     height: 600px;
-    background: #ccc;
+    background: rgb(139, 138, 138);
     padding: 20px;
   }
   
